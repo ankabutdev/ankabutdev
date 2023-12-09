@@ -1,9 +1,4 @@
 <h1 align="center">Hi there👋, I'm Salohiddin</h1>
-<h3 align="center">I am currently busy learning new technologies and projects</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankabutdev" alt="ankabutdev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ankabutdev" target="blank"><img src="https://img.shields.io/twitter/follow/ankabutdev?logo=twitter&style=for-the-badge" alt="ankabutdev" /></a> </p>
 
 - 🌱 I’m currently learning **unity, .dotnet**
 
@@ -13,9 +8,15 @@
 
 - ⚡ Fun fact **I like swimming very much**
 
+<h3 align="center">I am currently busy learning new technologies and projects</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankabutdev" alt="ankabutdev" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ankabutdev" target="blank"><img src="https://img.shields.io/twitter/follow/ankabutdev?logo=twitter&style=for-the-badge" alt="ankabutdev" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ankabutdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankabut000" height="30" width="40" /></a>
+<a href="https://twitter.com/ankabutdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankabutdev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ankabutdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankabutdev" height="30" width="40" /></a>
 </p>
 
