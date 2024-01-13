@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankabutdev&show_icons=true&locale=en" alt="ankabutdev" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=ankabutdev](https://github-readme-streak-stats.herokuapp.com/?user=ankabutdev&)https://github-readme-streak-stats.herokuapp.com/?user=ankabutdev&" alt="ankabutdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankabutdev&" alt="ankabutdev" /></p>
