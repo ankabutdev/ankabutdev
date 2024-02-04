@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **unity, .dotnet**
 
-- 💬 Ask me about **C#, Python, C++**
+- 💬 Ask me about **C#, Python**
 
 - 📫 How to reach me **ankabut571@gmail.com**
 
