@@ -8,14 +8,6 @@
 
 - ⚡ Fun fact **I like swimming very much**
 
-<p align="left"> <a href="https://twitter.com/ankabutdev" target="blank"><img src="https://img.shields.io/twitter/follow/ankabutdev?logo=twitter&style=for-the-badge" alt="ankabutdev" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ankabutdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankabutdev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankabutdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankabutdev" height="30" width="40" /></a>
-</p>
-
 <h3 align="center">I am currently busy learning new technologies and projects</h3>
 
 <h3 align="left">Languages and Tools:</h3>
