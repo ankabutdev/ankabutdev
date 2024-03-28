@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, I'm Salohiddin</h1>
 
-- 🌱 I’m currently learning **unity, .dotnet**
+- 🌱 I’m currently learning **UNITY, .NET**
 
-- 💬 Ask me about **C#, Python**
+- 💬 Ask me about **C#, .NET**
 
 - 📫 How to reach me **ankabut571@gmail.com**
 
