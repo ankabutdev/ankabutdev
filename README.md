@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **C#, .NET**
 
-- 📫 How to reach me **ankabut571@gmail.com**
+- 📫 How to reach me **https://taplink.cc/ankabutdev**
 
 - ⚡ Fun fact **I like swimming very much**
 
