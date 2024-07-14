@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, I'm Salohiddin</h1>
 
-- 🌱 I’m currently learning **Unity, .NET**
+- 🌱 I’m currently learning **Unity | .NET | Angular**
 
-- 💬 Ask me about **C#, .NET**
+- 💬 Ask me about **C# | .NET | Angular**
 
 - 📫 How to reach me **https://taplink.cc/ankabutdev**
 
