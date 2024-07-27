@@ -1,6 +1,6 @@
-![committers.top badge](https://user-badge.committers.top/uzbekistan/ankabutdev.svg)
-
 <h1 align="center">Hi there👋, I'm Salohiddin</h1>
+
+![committers.top badge](https://user-badge.committers.top/uzbekistan/ankabutdev.svg)
 
 - 🌱 I’m currently learning **Unity | .NET | Angular**
 
