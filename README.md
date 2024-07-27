@@ -8,6 +8,8 @@
 
 - ⚡ Fun fact **I like swimming very much**
 
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/ankabutdev.svg)]
+
 <h3 align="center">I am currently busy learning new technologies and projects</h3>
 
 <h3 align="left">Languages and Tools:</h3>
